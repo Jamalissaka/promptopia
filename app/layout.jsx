@@ -4,10 +4,10 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promptopia",
+  title: "JaneAI",
   description: "Discover and Share AI Prompts",
   openGraph: {
-    title: "Promptopia",
+    title: "JaneAI",
     description: "Discover and Share AI Prompts",
     images: [
       {
